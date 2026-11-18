@@ -21,16 +21,16 @@
         <h2>Technologies</h2>
         <div class="cards">
             <div class="card">
-                <h3>Machine Learning</h3>
-                <p>We leverage advanced machine learning algorithms to analyze medical images, identifying patterns and anomalies that may indicate the presence of cancer.</p>
+                <h3>Lorem Ipsum</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum sem ac sagittis blandit. Sed eleifend molestie tincidunt. Vestibulum at elit orci. Proin iaculis, orci.</p>
             </div>
             <div class="card">
-                <h3>Medical Imaging</h3>
-                <p>Our platform is designed to work with a variety of medical imaging modalities, including X-rays, CT scans, and MRIs, providing a comprehensive tool for cancer detection.</p>
+                <h3>Lorem Ipsum</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum sem ac sagittis blandit. Sed eleifend molestie tincidunt. Vestibulum at elit orci. Proin iaculis, orci.</p>
             </div>
             <div class="card">
-                <h3>Clinical Support</h3>
-                <p>DiopScan is intended to support healthcare professionals by providing additional insights from medical images, aiding in the decision-making process for patient care.</p>
+                <h3>Lorem Ipsum</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum sem ac sagittis blandit. Sed eleifend molestie tincidunt. Vestibulum at elit orci. Proin iaculis, orci.</p>
             </div>
         </div>
     </div>
