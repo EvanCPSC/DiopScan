@@ -15,6 +15,12 @@ uv run --with jupyter jupyter lab notebooks/preprocess.ipynb
 
 # Frontend
 
+To run commands on the frontend, please `cd` into the `site` directory:
+
+```sh
+cd site
+```
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
